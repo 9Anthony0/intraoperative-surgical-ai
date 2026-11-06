@@ -1,5 +1,7 @@
 # 🩺 Intraoperative Surgical Phase & Gesture Recognition Engine
 
+🚀 **[Try the live Surgeon Console](https://petrescu-surgical-ai.streamlit.app)**
+
 > A real-time, low-latency deep learning pipeline that classifies surgical gestures and detects
 > dangerous micro-hesitations and tremors from high-frequency robotic kinematic telemetry.
 
